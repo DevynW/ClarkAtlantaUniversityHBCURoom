@@ -1,1 +1,2 @@
-# ClarkAtlantaUniversityHBCURoom
+# [Clark Atlanta University](https://www.cau.edu/about/)
+##Clark Atlanta University (CAU) is a private, historically black university located in Atlanta, Georgia. The university was formed in 1988 by the merger of two institutions, Atlanta University (founded in 1865) and Clark College (founded in 1869). CAU has a strong tradition of producing successful alumni, including civil rights leader Dr. Martin Luther King Jr., filmmaker Tyler Perry, and former U.S. Surgeon General Dr. David Satcher. The university's commitment to academic excellence, social justice, and community service makes it a vital institution in the United States.
